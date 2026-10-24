@@ -11,12 +11,12 @@ Este repositório contém a atividade prática de geração de embeddings utiliz
 
 1. Certifique-se de ter o **Ollama** instalado e rodando em sua máquina local.
 2. Instale a biblioteca do Ollama para Python:
-   '''bash
-   pip install ollama
+   
+   'pip install ollama'
    
 3. Execute o script principal:
-   '''bash
-   python embeddings.py
+   
+   'python embeddings.py'
 
 # Resultado Esperado
 
