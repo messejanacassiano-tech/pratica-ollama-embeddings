@@ -1,0 +1,1 @@
+# pratica-ollama-embeddings
